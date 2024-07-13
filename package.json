@@ -10,7 +10,7 @@
     "@react-pdf/renderer": "^1.6.8",
     "axios": "^0.19.2",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "dfa": "1.1.0",
     "history-prop-types": "^2.5.2",
     "javascript-time-ago": "^2.0.6",

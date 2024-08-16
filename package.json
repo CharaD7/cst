@@ -7,7 +7,7 @@
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
-    "@react-pdf/renderer": "^1.6.8",
+    "@react-pdf/renderer": "^2.1.2",
     "axios": "^0.21.2",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "bootstrap": "^4.4.1",

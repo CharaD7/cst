@@ -39,7 +39,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'pry-rails'
   gem 'hirb'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '>= 8.0.0'
   gem "factory_bot_rails"
 end
 

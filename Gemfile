@@ -40,7 +40,7 @@ group :development, :test do
   gem 'pry-rails'
   gem 'hirb'
   gem 'rspec-rails'
-  gem "factory_bot_rails"
+  gem "factory_bot_rails", ">= 6.5.0"
 end
 
 group :development do
